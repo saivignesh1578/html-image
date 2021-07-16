@@ -1,0 +1,15 @@
+body{
+    background: url(bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.img{
+    padding-top: 250px;
+    width:82px;
+    height:70px;
+}
